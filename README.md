@@ -23,7 +23,7 @@ This project bridges the gap between raw textual facts and structured legal clas
   - **Transformers (Hugging Face):** For Legal BERT implementation.
   - **Sentence Transformers:** For semantic search embeddings.
   - **FAISS:** Facebook AI Similarity Search for high-speed retrieval.
-- **Graph Neural Networks:** Custom Heterogeneous Graph Attention Network (HGAT).
+- **Graph Neural Networks:** Novel Heterogeneous Graph Attention Network (HGAT).
 
 ## System Architecture
 
